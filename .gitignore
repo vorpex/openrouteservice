@@ -1,6 +1,7 @@
 .idea/
 *.iml
 *.ipr
+*.pbf
 .DS_Store
 
 graphs/

@@ -1,0 +1,2 @@
+- to use openrouteservice disconnect vpn and remove proxy
+- then run docker compose up in /Users/adam-sohonyai/Documents/github/openrouteseervice/
