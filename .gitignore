@@ -10,6 +10,7 @@ target/
 logs/
 elevation-cache/
 cgiar_cache/
+osm-data/
 
 # jqwik
 .jqwik-database
